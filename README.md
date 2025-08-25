@@ -1,0 +1,1 @@
+# Google Docs Smart Editor
